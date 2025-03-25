@@ -7,3 +7,6 @@
 
 1. 把图片放到inputs下
 2. `uv run app.py` 
+
+
+> 基本都是 Claude 3.7 的代码
