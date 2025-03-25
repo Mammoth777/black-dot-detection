@@ -8,7 +8,10 @@ wheels/
 
 # Virtual environments
 .venv
-inputs/
+inputs/*.bmp
+inputs/*.jpg
+inputs/*.jpeg
+inputs/*.png
 cropped_spots/
 temp/
 
